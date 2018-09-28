@@ -1,3 +1,4 @@
 # Ignore folder names
 node_modules/
+api/node_modules/
 -bkup/
